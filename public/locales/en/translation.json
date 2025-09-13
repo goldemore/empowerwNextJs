@@ -1,0 +1,254 @@
+{
+  "country": "Azerbaijan",
+  "search": "Search",
+  "account": "Account",
+  "my_favorite": "My Favorites",
+  "my_orders": "My Orders",
+  "logout": "Log out",
+  "cart1": "Cart",
+  "shop_new": "Go shopping",
+  "all_products": "All Products",
+
+  "company": "COMPANY",
+  "about": "About Us",
+  "careers": "Careers",
+  "certificates": "Certificates",
+  "blog": "Blog",
+  "contact": "Contact Us",
+
+  "help": "HELP",
+  "helpCentre": "Help Centre",
+  "shipping": "Shipping",
+
+  "subscribe": "SUBSCRIBE",
+  "subscribeText": "Join our community for style tips, inspiration, and special discounts.",
+  "emailPlaceholder": "Email address",
+  "join": "JOIN",
+  "followUs": "Follow us",
+  "subscribeLoading": "Sending...",
+  "subscribeThanks": "Thanks! You’ve been subscribed.",
+  "subscribeAlready": "You’re already subscribed.",
+  "subscribeInvalidEmail": "Please enter a valid email.",
+  "subscribeError": "Something went wrong. Try again.",
+  "sort_by_price": "Sort by price",
+  "low_to_high": "Price, low to high",
+  "high_to_low": "Price, high to low",
+  "col_pro_for_count": "product",
+  "filters": {
+    "price": "Price",
+    "color": "Color",
+    "category": "Category",
+    "size": "Size"
+  },
+  "applied_filters": "Applied filters",
+  "clearAll": "Clear All",
+  "cart": {
+    "empty": "Cart is empty",
+    "title": "YOUR CART",
+    "headers": {
+      "product": "Product",
+      "price": "Price",
+      "quantity": "Quantity",
+      "subtotal": "Subtotal"
+    },
+    "no_title": "No title",
+    "product_size": "Product size:",
+    "summary": {
+      "subtotal": "Subtotal:"
+    },
+    "checkout": "Checkout",
+    "go_to_pay": "Go to pay",
+
+    "remove": "Remove"
+  },
+  "this_collection": "This collection has not yet been filled with products.",
+
+  "checkout": {
+    "auth_required": "Please log in to continue checkout.",
+    "go_login": "Go to Login",
+    "loading": "Loading...",
+    "shipping_address": "Shipping Address",
+    "edit_address": "Edit Address",
+    "saved_address": "Saved Address",
+    "labels": {
+      "name": "Name:",
+      "email": "Email:",
+      "phone": "Phone:",
+      "address": "Address:",
+      "note": "Note:"
+    },
+    "placeholders": {
+      "first_name": "First Name",
+      "last_name": "Last Name",
+      "email": "Email",
+      "phone_number": "Phone Number",
+      "address": "Address",
+      "note_optional": "Note (optional)"
+    },
+    "buttons": {
+      "saving": "Saving...",
+      "update_address": "Update Address",
+      "save_address": "Save Address",
+      "edit_address": "✏️ Edit Address",
+      "pay_full": "💰 Pay in Full",
+      "pay_installments": "💳 Pay in Installments",
+      "close": "✖ Close"
+    },
+    "right": {
+      "your_order": "Your Order",
+      "empty": "Cart is empty",
+      "size": "Size:",
+      "subtotal": "Subtotal:",
+      "total": "Total:"
+    },
+    "installment": {
+      "title": "Select Installment Plan",
+      "option": "{{m}} months — {{amount}} ₼ total"
+    },
+    "no_title": "No title"
+  },
+  "add_to_cart": {
+    "size": "Size",
+    "size_guide": "Size Guide",
+    "quantity": "Quantity",
+    "add_to_cart": "Add to Cart",
+    "delivery_time": "You can check the delivery time in the product's 'Shipping Information' section.",
+    "prod_det": "Product Details",
+    "ship_info": "Shipping Information",
+    "returns": "Returns"
+  },
+  "createAccount": "CREATE ACCOUNT",
+  "name": "Name",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "enterName": "Enter your Name",
+  "enterEmail": "Enter your email",
+  "enterPassword": "Enter your password",
+  "confirmYourPassword": "Confirm your password",
+  "passwordsDoNotMatch": "Passwords do not match.",
+  "registrationFailed": "Registration failed.",
+  "createAccountBtn": "Create Account",
+  "alreadyHaveAccount": "Already have an account?",
+  "loginHere": "Log in here",
+  "login": {
+    "title": "LOGIN",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "phEmail": "Enter your email",
+    "phPassword": "Enter your password",
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required",
+    "forgot": "Forgot password?",
+    "createAccountCta": "Create account",
+    "errorFailed": "Login failed. Please try again.",
+    "signingIn": "Signing in...",
+    "submit": "Sign In"
+  },
+  "aboutPage": {
+    "error": {
+      "loadFail": "Could not load company information.",
+      "backHome": "Back to Home"
+    },
+    "values": {
+      "title": "Our Values",
+      "items": {
+        "individuality": {
+          "title": "Individuality",
+          "desc": "Every woman is unique, and we celebrate that through style."
+        },
+        "sustainability": {
+          "title": "Sustainability",
+          "desc": "We promote conscious fashion and care for the planet."
+        },
+        "support": {
+          "title": "Support",
+          "desc": "We are a community that inspires and uplifts one another."
+        }
+      }
+    },
+    "team": {
+      "title": "Meet the Team"
+    },
+    "cta": {
+      "contact": "Contact Us"
+    }
+  },
+  "loggedIn": {
+    "title": "Thanks for being with us 💛",
+    "text": "We're happy to have you in our community!"
+  },
+  "guest": {
+    "title": "Join Our Community",
+    "text": "Stay up to date with new collections, offers, and inspiring stories.",
+    "cta": "Sign Up Now"
+  },
+  "header": {
+    "title": "Careers at Empower Woman",
+    "intro": "We believe in building a strong, diverse, and passionate team that helps us empower women around the world through fashion and creativity."
+  },
+  "vacancy": {
+    "position": "Position",
+    "responsibilities": "Key Responsibilities",
+    "requirements": "Requirements",
+    "applyPrefix": "To apply:",
+    "applyAction": "Send your CV and portfolio to",
+    "deadline": "Deadline"
+  },
+  "empty": "No open positions at the moment.",
+  "certificate": {
+    "title": "Our Certifications",
+    "empty": "No certificates yet.",
+    "issuedOn": "Issued on",
+    "modalClose": "Close"
+  },
+  "blogs": {
+    "title": "Empower Woman Blog",
+    "readMore": "Read More →",
+    "empty": "No posts yet.",
+    "failed": "Failed to load blog posts."
+  },
+  "blogPost": {
+    "by": "By",
+    "notFound": "Post not found."
+  },
+  "contactUS": {
+    "title": "Contact Us",
+    "info": {
+      "addressTitle": "Address",
+      "addressLines": [
+        "Binagadi district, Ziya Bunyadov ave. 5A",
+        "Legal Address: Sabail, Neftchi Qurban 50/52",
+        "TAX ID: 1703097341"
+      ],
+      "emailTitle": "Email",
+      "hoursTitle": "Working hours",
+      "hoursValue": "Mon–Sat: 09:00 – 18:00"
+    },
+    "form": {
+      "title": "Have a question? Write to us",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "phName": "Your name",
+      "phPhone": "Phone number",
+      "phEmail": "Your email",
+      "phMessage": "Your message",
+      "send": "Send",
+      "sending": "Sending...",
+      "success": "Message sent successfully ✅",
+      "error": "Message was not sent ❌"
+    }
+  },
+  "seo": {
+    "siteName": "Empower Woman",
+    "home": {
+      "title": "Empower Woman — Online Store",
+      "description": "Modern women's clothing: quality, comfort, and style. An Azerbaijani brand — dresses, trousers, blouses, jackets, and more.",
+      "keywords": "women's clothing, online store, Azerbaijani brand, dress, trousers, blouse, jacket, fashion, women's fashion",
+      "ogImage": "/logo.png",
+      "url": "https://empowerwoman.az/en"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+05/07/2025
+Установил:
+npm install wretch swr js-cookies react-hook-form
+npm install -D @types/js-cookies
+
+07/07/2025
+Удалил
+npm uninstall wretch

@@ -1,0 +1,255 @@
+{
+  "country": "Azərbaycan",
+  "search": "Axtarış",
+  "account": "Hesab",
+  "my_favorite": "Seçilənlər",
+  "my_orders": "Sifarişlərim",
+  "logout": "Çıxış",
+  "cart1": "Səbət",
+  "shop_new": "Alışa keç",
+  "all_products": "Bütün Məhsullar",
+
+  "company": "ŞİRKƏT",
+  "about": "Haqqımızda",
+  "careers": "Karyera",
+  "certificates": "Sertifikatlar",
+  "blog": "Bloq",
+  "contact": "Bizimlə əlaqə",
+
+  "help": "KÖMƏK",
+  "helpCentre": "Kömək Mərkəzi",
+  "shipping": "Çatdırılma",
+
+  "subscribe": "ABUNƏ OL",
+  "subscribeText": "Stil məsləhətləri, ilham və xüsusi endirimlər üçün bizə qoşulun.",
+  "emailPlaceholder": "Email ünvanı",
+  "join": "QOŞUL",
+  "followUs": "Bizi izləyin",
+  "subscribeLoading": "Göndərilir...",
+  "subscribeThanks": "Təşəkkürlər! Uğurla abunə oldunuz.",
+  "subscribeAlready": "Siz artıq abunəsiniz.",
+  "subscribeInvalidEmail": "Düzgün email daxil edin.",
+  "subscribeError": "Xəta baş verdi. Yenidən cəhd edin.",
+  "sort_by_price": "Qiymətə görə çeşidləmə",
+  "low_to_high": "Qiymət, aşağıdan yuxarıya",
+  "high_to_low": "Qiymət, yüksəkdən aşağıya",
+  "col_pro_for_count": "məhsul",
+  "filters": {
+    "price": "Qiymət",
+    "color": "Rəng",
+    "category": "Kateqoriya",
+    "size": "Ölçü"
+  },
+  "applied_filters": "Tətbiq olunan filtrlər",
+  "clearAll": "Sıfırla",
+
+  "cart": {
+    "empty": "Səbət boşdur",
+    "title": "SƏBƏTİNİZ",
+    "headers": {
+      "product": "Məhsul",
+      "price": "Qiymət",
+      "quantity": "Miqdar",
+      "subtotal": "Ümumi"
+    },
+    "no_title": "Başlıq yoxdur",
+    "product_size": "Məhsul ölçüsü:",
+    "summary": {
+      "subtotal": "Ümumi:"
+    },
+    "checkout": "Yoxla",
+    "go_to_pay": "Ödənişə keç",
+    "remove": "Sil"
+  },
+  "this_collection": "Bu kolleksiya hələ məhsul ilə doldurulmayıb.",
+
+  "checkout": {
+    "auth_required": "Ödənişi davam etdirmək üçün daxil olun.",
+    "go_login": "Daxil olmağa keç",
+    "loading": "Yüklənir...",
+    "shipping_address": "Çatdırılma ünvanı",
+    "edit_address": "Ünvanı redaktə et",
+    "saved_address": "Yadda saxlanmış ünvan",
+    "labels": {
+      "name": "Ad:",
+      "email": "E-poçt:",
+      "phone": "Telefon:",
+      "address": "Ünvan:",
+      "note": "Qeyd:"
+    },
+    "placeholders": {
+      "first_name": "Ad",
+      "last_name": "Soyad",
+      "email": "E-poçt",
+      "phone_number": "Telefon nömrəsi",
+      "address": "Ünvan",
+      "note_optional": "Qeyd (istəyə bağlı)"
+    },
+    "buttons": {
+      "saving": "Yadda saxlanılır...",
+      "update_address": "Ünvanı yenilə",
+      "save_address": "Ünvanı yadda saxla",
+      "edit_address": "✏️ Ünvanı redaktə et",
+      "pay_full": "💰 Tam ödəniş",
+      "pay_installments": "💳 Taksitlə ödə",
+      "close": "✖ Bağla"
+    },
+    "right": {
+      "your_order": "Sifarişiniz",
+      "empty": "Səbət boşdur",
+      "size": "Ölçü:",
+      "subtotal": "Ümumi:",
+      "total": "Cəm:"
+    },
+    "installment": {
+      "title": "Taksit planını seçin",
+      "option": "{{m}} ay — {{amount}} ₼ cəm"
+    },
+    "no_title": "Başlıq yoxdur"
+  },
+  "add_to_cart": {
+    "size": "Ölçü",
+    "size_guide": "Ölçü bələdçisi",
+    "quantity": "Miqdar",
+    "add_to_cart": "Səbətə əlavə et",
+    "delivery_time": "Çatdırılma vaxtı ilə məhsulun 'Çatdırılma məlumatı' bölümündə tanış ola bilərsiniz.",
+    "prod_det": "Məhsul məlumatları",
+    "ship_info": "Çatdırılma məlumatı",
+    "returns": "Geri Qaytarma"
+  },
+  "createAccount": "HESAB YARAT",
+  "name": "Ad",
+  "email": "Email",
+  "password": "Şifrə",
+  "confirmPassword": "Şifrəni təsdiqlə",
+  "enterName": "Adınızı daxil edin",
+  "enterEmail": "Email ünvanınızı daxil edin",
+  "enterPassword": "Şifrənizi daxil edin",
+  "confirmYourPassword": "Şifrənizi təsdiqləyin",
+  "passwordsDoNotMatch": "Şifrələr uyğun deyil.",
+  "registrationFailed": "Qeydiyyat uğursuz oldu.",
+  "createAccountBtn": "Hesab yarat",
+  "alreadyHaveAccount": "Artıq hesabınız var?",
+  "loginHere": "Buradan daxil olun",
+  "login": {
+    "title": "DAXİL OL",
+    "emailLabel": "Email",
+    "passwordLabel": "Şifrə",
+    "phEmail": "Email ünvanınızı daxil edin",
+    "phPassword": "Şifrənizi daxil edin",
+    "emailRequired": "Email tələb olunur",
+    "passwordRequired": "Şifrə tələb olunur",
+    "forgot": "Şifrəni unutmusunuz?",
+    "createAccountCta": "Hesab yarat",
+    "errorFailed": "Giriş uğursuz oldu. Yenidən cəhd edin.",
+    "signingIn": "Daxil olunur...",
+    "submit": "Daxil ol"
+  },
+  "aboutPage": {
+    "error": {
+      "loadFail": "Şirkət haqqında məlumatı yükləmək mümkün olmadı.",
+      "backHome": "Əsas səhifə"
+    },
+    "values": {
+      "title": "Dəyərlərimiz",
+      "items": {
+        "individuality": {
+          "title": "Fərdilik",
+          "desc": "Hər bir qadın unikaldır və biz bunu üslub vasitəsilə yaradırıq."
+        },
+        "sustainability": {
+          "title": "Davamlılıq",
+          "desc": "Şüurlu dəbi təşviq edir və planetə qayğı göstəririk."
+        },
+        "support": {
+          "title": "Dəstək",
+          "desc": "Bir-birimizi ruhlandıran və dəstəkləyən bir şirkətik."
+        }
+      }
+    },
+    "team": {
+      "title": "Komanda ilə tanış olun"
+    },
+    "cta": {
+      "contact": "Bizimlə əlaqə"
+    }
+  },
+  "loggedIn": {
+    "title": "Bizimlə olduğunuz üçün təşəkkürlər 💛",
+    "text": "Qrupumuzda sizi görməkdən məmnunuq!"
+  },
+  "guest": {
+    "title": "Bizə qoşulun",
+    "text": "Yeni kolleksiyalar, təkliflər və ilhamverici hekayələrdən xəbərdar olun.",
+    "cta": "İndi Qeydiyyatdan Keçin"
+  },
+  "header": {
+    "title": "Empower Woman-da karyera",
+    "intro": "Moda və yaradıcılıq vasitəsilə qadınları gücləndirməyimizə kömək edən güclü, müxtəlif və ehtiraslı bir komanda qurmağa inanırıq."
+  },
+  "vacancy": {
+    "position": "Vəzifə",
+    "responsibilities": "Əsas öhdəliklər",
+    "requirements": "Tələblər",
+    "applyPrefix": "Müraciət üçün:",
+    "applyAction": "CV və portfolionuzu bu ünvana göndərin",
+    "deadline": "Son müraciət tarixi"
+  },
+  "empty": "Hazırda açıq vakansiya yoxdur.",
+  "certificate": {
+    "title": "Sertifikatlarımız",
+    "empty": "Hələ sertifikat yoxdur.",
+    "issuedOn": "Verilmə tarixi",
+    "modalClose": "Bağla"
+  },
+  "blogs": {
+    "title": "Empower Woman Bloqu",
+    "readMore": "Daha çox oxu →",
+    "empty": "Hələ yazı yoxdur.",
+    "failed": "Bloq yazılarını yükləmək alınmadı."
+  },
+  "blogPost": {
+    "by": "Müəllif",
+    "notFound": "Yazı tapılmadı."
+  },
+  "contactUS": {
+    "title": "BİZİMLƏ ƏLAQƏ",
+    "info": {
+      "addressTitle": "Ünvan",
+      "addressLines": [
+        "Binəqədi rayonu, Ziya Bünyadov prospekti 5A",
+        "Hüquqi Ünvan: Səbail, Neftçi Qurban 50/52",
+        "VÖEN: 1703097341"
+      ],
+      "emailTitle": "Email",
+      "hoursTitle": "İş saatları",
+      "hoursValue": "B.e.–Şənbə: 09:00 – 18:00"
+    },
+    "form": {
+      "title": "Sualınız var? Bizə yazın",
+      "name": "Ad",
+      "phone": "Telefon",
+      "email": "Email",
+      "message": "Mesaj",
+      "phName": "Adınızı daxil edin",
+      "phPhone": "Telefon nömrəniz",
+      "phEmail": "Email ünvanınız",
+      "phMessage": "Mesajınız",
+      "send": "Göndər",
+      "sending": "Göndərilir...",
+      "success": "Mesaj uğurla göndərildi ✅",
+      "error": "Mesaj göndərilmədi ❌"
+    }
+  },
+
+  "seo": {
+    "siteName": "Empower Woman",
+    "home": {
+      "title": "Empower Woman — Onlayn mağaza",
+      "description": "Müasir qadın geyimləri: keyfiyyət, rahatlıq və üslub. Azərbaycan brendi — paltarlar, şalvarlar, köynəklər, paltolar və daha çoxu.",
+      "keywords": "qadın geyimləri, onlayn mağaza, Azərbaycan brendi, paltar, şalvar, köynək, pəncək, dəbli geyim, qadın modası",
+      "ogImage": "/logo.png",
+      "url": "https://empowerwoman.az"
+    }
+  }
+}
